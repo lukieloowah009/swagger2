@@ -8,7 +8,7 @@
       "text/html"
    ],
    "apis": [
-      [
+      
          {
             "path": "/api/deployment/{deployment_id}/region/{region_id}/controlplane/{control_plane_id}/streams",
             "display_path": "/api/deployment/{id}/region{id}/controlplane/{id}/streams",
@@ -6701,7 +6701,7 @@
                }
             ]
          }
-      ]
+      
    ],
    "models": {
       "BuildModel": {
